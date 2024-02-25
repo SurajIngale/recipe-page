@@ -167,4 +167,8 @@ ol{
     font-size: medium;
    }
 }
+.attribute{
+  font-size: small;
+  margin-top: 10px;
+}
 
